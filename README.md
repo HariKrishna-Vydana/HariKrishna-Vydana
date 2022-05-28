@@ -1,4 +1,4 @@
-### Hii i am Hari Krishna Vydana, a Post.Doctoral researcher in FIT-VUT Brno,
+### Hari Krishna Vydana, a Post.Doctoral researcher in FIT-VUT Brno,
 I work on End-to-End Speech recogniion systems and Speech Translations systems.
 
 <!---(dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula) -->
